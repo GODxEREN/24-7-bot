@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "POWEERSMPS1.aternos.me",
+    "ip": "lunblock.mcsh.gg",
     "port": 22129,
     "version": "1.20.1",
     "try-creative": false
